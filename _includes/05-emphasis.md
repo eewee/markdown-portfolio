@@ -9,3 +9,5 @@ _italique_
 __gras__
 
 _italique **gras** italique_
+
+:tada:
